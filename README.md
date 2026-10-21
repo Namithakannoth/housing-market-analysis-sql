@@ -5,6 +5,11 @@ I completed this course project using MySQL Workbench to analyse 5,000 housing m
 
 Each record represents one city's housing market activity for a particular month.
 
+## SQL Results Preview
+Top 10 cities by total transaction value in the supplied dataset.
+
+![SQL query and top 10 city results](top-10-cities-sql.png)
+
 ## What I Did
 - Checked table row counts, date ranges and record uniqueness.
 - Identified missing values in sales, transaction values, prices, listings and inventory.
