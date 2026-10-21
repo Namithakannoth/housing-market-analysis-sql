@@ -15,6 +15,7 @@ Each record represents one city's housing market activity for a particular month
 
 ## SQL Skills
 MySQL, INNER JOIN, LEFT JOIN, CASE WHEN, GROUP BY, HAVING, COUNT DISTINCT, SUM, AVG, filtering and sorting.
+Common Table Expressions (CTEs) and RANK() OVER with PARTITION BY.
 
 ## Selected Findings
 The findings below are documented in my project report:
@@ -33,11 +34,13 @@ The findings below are documented in my project report:
 ## Project Files
 - [SQL analysis](Namitha_KannothVeedu_Housing_SQL_Project.sql)
 - [Insight report](Namitha_KannothVeedu_Housing_Insight_Report.md)
+- [Additional SQL queries using CTEs and ranking](OptionalStretch.sql)
 
 ## Viewing the Work
 Open the SQL file to review the queries and the insight report to read the findings.
 
 Running the queries requires MySQL and the populated housing_assignment database. Database setup and source data are not currently included in this repository.
+The additional queries require MySQL 8.0 or later.
 
 ## Author
 Namitha Kannoth Veedu
